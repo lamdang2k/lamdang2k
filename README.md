@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Thanh Lam DANG, 4th-year engineering student at INSA Lyon, France
-- 👀 I’m interested in Backend Development, Cloud Computing and Data Science. 
-- 🌱 I’m currently learning AGILE Software Development, Semantic Web and Data Mining. I also spent my first two years at INSA learning Java and Front-end development (HTML5, CSS3, Javascript)
+- 👋 Hi, I’m Thanh Lam DANG, a final-year student at INSA Lyon, France.
+- 👀 I’m interested in Software Engineering, Machine Learning and Explainable AI. 
+- 🌱 I’m currently learning Causal Inference and Natural Language Processing. In my free time I enjoy reading books, cooking and learning foreign languages (Ich lerne Deutsch ;)
 - 📫 You can find me on: https://www.linkedin.com/in/lamdang2k or connect with me by email thanh.dang@insa-lyon.fr
 
 <!---
